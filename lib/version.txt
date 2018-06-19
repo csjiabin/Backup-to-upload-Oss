@@ -1,0 +1,1 @@
+{"title":"kiosk","VersionCode":6,"VersionName":"1.0.5","text":"version update","time":"2018-04-27","url":"https://fow-pj.oss-cn-shanghai.aliyuncs.com/test/hnl_kiosk_debug.apk","mandatory":false}

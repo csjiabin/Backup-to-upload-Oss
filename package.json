@@ -1,0 +1,30 @@
+{
+  "name": "verli",
+  "version": "1.0.0",
+  "description": "verli-cli",
+  "main": "index.js",
+  "bin": {
+    "verli": "bin/verli.js"
+  },
+  "author": "csjiabin <qq1187712426@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^5.1.1",
+    "chalk": "^2.4.0",
+    "co": "^4.6.0",
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0",
+    "moment": "^2.22.1",
+    "ora": "^2.0.0",
+    "readline": "^1.3.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
